@@ -23,6 +23,13 @@ AtliQ Hardware(Imaginary Company), a leading computer hardware manufacturer in I
 
  [Resume_Project1_Sales_Analysis.pdf](https://github.com/user-attachments/files/18094769/Resume_Project1_Sales_Analysis.pdf)
 
+ **Key Insights**
+ 1. AtliQ Hardware is serving are 38 customers all over India with divide market as North, Central and South Zone.
+ 2. Their customers types are E -commerce and Retails Stores with presence in 14 Cities.
+ 3. Sales data is provide from year June 2017 to June 2020.
+ 
+  
+
  
  
 
