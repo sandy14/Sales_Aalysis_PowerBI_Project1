@@ -21,5 +21,10 @@ AtliQ Hardware(Imaginary Company), a leading computer hardware manufacturer in I
  
  •	PowerBI : To create visualizations for key insights about different products, markets by analysing Revenue ,Profit Margin and contributions.
 
+ [Resume_Project1_Sales_Analysis.pdf](https://github.com/user-attachments/files/18094769/Resume_Project1_Sales_Analysis.pdf)
+
+ 
+ 
+
  
 
